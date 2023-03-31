@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 80vw;
+}
+
+.topleft{
+    width: 40vh;
+}
+
+.topright{
+width: 60vh;
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.section1{
+    height: 15vh;
+}
+
+.counter{
+    display: flex;
+}
+
+.counter div{
+    flex-basis: 150px;
+}
+
+.counter div p{
+    font-size: 40px;
+}
