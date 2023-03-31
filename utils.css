@@ -13,6 +13,10 @@
     margin-right: auto;
 }
 
+.ml-10 {
+    margin-left: 10px;
+}
+
 .flex{
     display: flex;
 }
@@ -23,6 +27,10 @@
 
 .justify-between{
 justify-content: space-between;
+}
+
+.justify-center{
+justify-content: center;
 }
 
 .navbar li{
